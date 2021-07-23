@@ -1,10 +1,14 @@
-package chapter1.쓸모없는_비교_피하기;
+package chapter1.sample;
 
 public class Car {
 
     private boolean status = true;
 
     public boolean isNormal() {
+        return status;
+    }
+
+    public boolean isNotNormal() {
         return status;
     }
 
