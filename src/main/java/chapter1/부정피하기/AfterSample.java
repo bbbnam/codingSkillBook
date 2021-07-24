@@ -1,6 +1,6 @@
 package chapter1.부정피하기;
 
-import chapter1.sample.Car;
+import chapter1.common.Car;
 
 public class AfterSample {
 

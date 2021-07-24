@@ -1,6 +1,6 @@
 package chapter1.쓸모없는_비교_피하기;
 
-import chapter1.sample.Car;
+import chapter1.common.Car;
 
 public class AfterSample {
 

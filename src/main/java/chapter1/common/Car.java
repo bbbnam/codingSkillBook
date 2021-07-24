@@ -1,4 +1,4 @@
-package chapter1.sample;
+package chapter1.common;
 
 public class Car {
 
